@@ -1,0 +1,420 @@
+Added Component: Designator=3NPN(3NPN)
+Added Component: Designator=3V3(AMS1117-5-Board)
+Added Component: Designator=5V(AMS1117-5-Board)
+Added Component: Designator=ADCX6(HDR1X7)
+Added Component: Designator=BEEP(BUZZER)
+Added Component: Designator=BLE(HDR1X4)
+Added Component: Designator=D0(0805LED)
+Added Component: Designator=D1(0805LED)
+Added Component: Designator=D2(0805LED)
+Added Component: Designator=D3(0805LED)
+Added Component: Designator=D4(0805LED)
+Added Component: Designator=D5(0805LED)
+Added Component: Designator=D6(0805LED)
+Added Component: Designator=D7(0805LED)
+Added Component: Designator=IIC-1(HDR1X4)
+Added Component: Designator=IIC-2(HDR1X4)
+Added Component: Designator=MotorA(HDR2X3)
+Added Component: Designator=MotorB(HDR2X3)
+Added Component: Designator=MotorC(HDR2X3)
+Added Component: Designator=MotorD(HDR2X3)
+Added Component: Designator=MPU6050-1(HDR1X5)
+Added Component: Designator=MPU6050-2(HDR1X5)
+Added Component: Designator=NRF(HDR2X4)
+Added Component: Designator=OLED(HDR1X6)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R3V3(0805)
+Added Component: Designator=R4(0805)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R5V(0805)
+Added Component: Designator=R6(0805)
+Added Component: Designator=R9(0805)
+Added Component: Designator=R10(0805)
+Added Component: Designator=R11(0805)
+Added Component: Designator=R12(0805)
+Added Component: Designator=R13(0805)
+Added Component: Designator=R14(0805)
+Added Component: Designator=R15(0805)
+Added Component: Designator=R16(0805)
+Added Component: Designator=R17(0805)
+Added Component: Designator=R18(0805)
+Added Component: Designator=R21(0805)
+Added Component: Designator=R22(0805)
+Added Component: Designator=R23(0805)
+Added Component: Designator=R24(0805)
+Added Component: Designator=R25(0805)
+Added Component: Designator=R26(0805)
+Added Component: Designator=RBEEP(0805)
+Added Component: Designator=S1(Button)
+Added Component: Designator=S2(Button)
+Added Component: Designator=S3(Button)
+Added Component: Designator=S4(Button)
+Added Component: Designator=S5(Button)
+Added Component: Designator=S6(Button)
+Added Component: Designator=S9(bmkgtp)
+Added Component: Designator=sdcard(SD_Card)
+Added Component: Designator=STM32F428Core(F429)
+Added Component: Designator=TC&SPI(HDR1X7)
+Added Component: Designator=UART1(HDR1X4)
+Added Component: Designator=UART2(HDR1X4)
+Added Component: Designator=UART3(HDR1X4)
+Added Pin To Net: NetName=3V3 Pin=3V3-VOUT+
+Added Pin To Net: NetName=3V3 Pin=IIC-1-1
+Added Pin To Net: NetName=3V3 Pin=IIC-2-1
+Added Pin To Net: NetName=3V3 Pin=MPU6050-1-1
+Added Pin To Net: NetName=3V3 Pin=MPU6050-2-1
+Added Pin To Net: NetName=3V3 Pin=NRF-2
+Added Pin To Net: NetName=3V3 Pin=OLED-2
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=3V3 Pin=R3V3-2
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R9-2
+Added Pin To Net: NetName=3V3 Pin=R10-2
+Added Pin To Net: NetName=3V3 Pin=R11-2
+Added Pin To Net: NetName=3V3 Pin=R12-2
+Added Pin To Net: NetName=3V3 Pin=R13-2
+Added Pin To Net: NetName=3V3 Pin=R14-2
+Added Pin To Net: NetName=3V3 Pin=R15-2
+Added Pin To Net: NetName=3V3 Pin=R16-2
+Added Pin To Net: NetName=3V3 Pin=R17-2
+Added Pin To Net: NetName=3V3 Pin=R18-2
+Added Pin To Net: NetName=3V3 Pin=R21-2
+Added Pin To Net: NetName=3V3 Pin=R22-2
+Added Pin To Net: NetName=3V3 Pin=R23-2
+Added Pin To Net: NetName=3V3 Pin=R24-1
+Added Pin To Net: NetName=3V3 Pin=R25-1
+Added Pin To Net: NetName=3V3 Pin=R26-1
+Added Pin To Net: NetName=3V3 Pin=sdcard-4
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=5V-VOUT+
+Added Pin To Net: NetName=5V Pin=BEEP-1
+Added Pin To Net: NetName=5V Pin=BLE-4
+Added Pin To Net: NetName=5V Pin=MotorA-3
+Added Pin To Net: NetName=5V Pin=MotorA-4
+Added Pin To Net: NetName=5V Pin=MotorB-3
+Added Pin To Net: NetName=5V Pin=MotorB-4
+Added Pin To Net: NetName=5V Pin=MotorC-3
+Added Pin To Net: NetName=5V Pin=MotorC-4
+Added Pin To Net: NetName=5V Pin=MotorD-3
+Added Pin To Net: NetName=5V Pin=MotorD-4
+Added Pin To Net: NetName=5V Pin=R5V-2
+Added Pin To Net: NetName=5V Pin=STM32F428Core-57
+Added Pin To Net: NetName=5V Pin=STM32F428Core-85
+Added Pin To Net: NetName=5V Pin=TC&SPI-2
+Added Pin To Net: NetName=5V Pin=UART1-1
+Added Pin To Net: NetName=5V Pin=UART2-1
+Added Pin To Net: NetName=5V Pin=UART3-1
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=3NPN-2
+Added Pin To Net: NetName=GND Pin=3V3-GND
+Added Pin To Net: NetName=GND Pin=3V3-GND
+Added Pin To Net: NetName=GND Pin=5V-GND
+Added Pin To Net: NetName=GND Pin=5V-GND
+Added Pin To Net: NetName=GND Pin=ADCX6-1
+Added Pin To Net: NetName=GND Pin=BLE-3
+Added Pin To Net: NetName=GND Pin=D0-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=IIC-1-2
+Added Pin To Net: NetName=GND Pin=IIC-2-2
+Added Pin To Net: NetName=GND Pin=MotorA-1
+Added Pin To Net: NetName=GND Pin=MotorA-2
+Added Pin To Net: NetName=GND Pin=MotorB-1
+Added Pin To Net: NetName=GND Pin=MotorB-2
+Added Pin To Net: NetName=GND Pin=MotorC-1
+Added Pin To Net: NetName=GND Pin=MotorC-2
+Added Pin To Net: NetName=GND Pin=MotorD-1
+Added Pin To Net: NetName=GND Pin=MotorD-2
+Added Pin To Net: NetName=GND Pin=MPU6050-1-2
+Added Pin To Net: NetName=GND Pin=MPU6050-2-2
+Added Pin To Net: NetName=GND Pin=NRF-1
+Added Pin To Net: NetName=GND Pin=OLED-1
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Pin To Net: NetName=GND Pin=S5-1
+Added Pin To Net: NetName=GND Pin=S6-1
+Added Pin To Net: NetName=GND Pin=S9-1
+Added Pin To Net: NetName=GND Pin=S9-2
+Added Pin To Net: NetName=GND Pin=S9-3
+Added Pin To Net: NetName=GND Pin=S9-4
+Added Pin To Net: NetName=GND Pin=sdcard-6
+Added Pin To Net: NetName=GND Pin=STM32F428Core-1
+Added Pin To Net: NetName=GND Pin=STM32F428Core-29
+Added Pin To Net: NetName=GND Pin=STM32F428Core-59
+Added Pin To Net: NetName=GND Pin=STM32F428Core-87
+Added Pin To Net: NetName=GND Pin=TC&SPI-1
+Added Pin To Net: NetName=GND Pin=UART1-2
+Added Pin To Net: NetName=GND Pin=UART2-2
+Added Pin To Net: NetName=GND Pin=UART3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net3NPN_1 Pin=3NPN-1
+Added Pin To Net: NetName=Net3NPN_1 Pin=RBEEP-2
+Added Net: Name=Net3NPN_1
+Added Pin To Net: NetName=Net3NPN_3 Pin=3NPN-3
+Added Pin To Net: NetName=Net3NPN_3 Pin=BEEP-2
+Added Net: Name=Net3NPN_3
+Added Pin To Net: NetName=NetD0_1 Pin=D0-1
+Added Pin To Net: NetName=NetD0_1 Pin=R3V3-1
+Added Net: Name=NetD0_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R5V-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R18-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R17-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R16-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R15-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R14-1
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R13-1
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=PA2 Pin=MotorA-5
+Added Pin To Net: NetName=PA2 Pin=STM32F428Core-38
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=MotorA-6
+Added Pin To Net: NetName=PA3 Pin=STM32F428Core-97
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA5_SCK Pin=NRF-5
+Added Pin To Net: NetName=PA5_SCK Pin=STM32F428Core-80
+Added Net: Name=PA5_SCK
+Added Pin To Net: NetName=PA6_MISO Pin=NRF-7
+Added Pin To Net: NetName=PA6_MISO Pin=STM32F428Core-19
+Added Net: Name=PA6_MISO
+Added Pin To Net: NetName=PA7_MOSI Pin=NRF-6
+Added Pin To Net: NetName=PA7_MOSI Pin=STM32F428Core-10
+Added Net: Name=PA7_MOSI
+Added Pin To Net: NetName=PA8_CS Pin=STM32F428Core-20
+Added Pin To Net: NetName=PA8_CS Pin=TC&SPI-7
+Added Net: Name=PA8_CS
+Added Pin To Net: NetName=PA9_TX Pin=STM32F428Core-61
+Added Pin To Net: NetName=PA9_TX Pin=UART1-3
+Added Net: Name=PA9_TX
+Added Pin To Net: NetName=PA10_RX Pin=STM32F428Core-89
+Added Pin To Net: NetName=PA10_RX Pin=UART1-4
+Added Net: Name=PA10_RX
+Added Pin To Net: NetName=PB0_SCL Pin=IIC-1-3
+Added Pin To Net: NetName=PB0_SCL Pin=STM32F428Core-106
+Added Net: Name=PB0_SCL
+Added Pin To Net: NetName=PB5 Pin=R21-1
+Added Pin To Net: NetName=PB5 Pin=sdcard-13
+Added Pin To Net: NetName=PB5 Pin=STM32F428Core-53
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=MotorC-5
+Added Pin To Net: NetName=PB6 Pin=STM32F428Core-16
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=MotorC-6
+Added Pin To Net: NetName=PB7 Pin=STM32F428Core-44
+Added Net: Name=PB7
+Added Pin To Net: NetName=PB8 Pin=MotorD-5
+Added Pin To Net: NetName=PB8 Pin=STM32F428Core-68
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=MotorD-6
+Added Pin To Net: NetName=PB9 Pin=STM32F428Core-96
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB10_TX Pin=STM32F428Core-25
+Added Pin To Net: NetName=PB10_TX Pin=UART3-3
+Added Net: Name=PB10_TX
+Added Pin To Net: NetName=PB11_RX Pin=STM32F428Core-12
+Added Pin To Net: NetName=PB11_RX Pin=UART3-4
+Added Net: Name=PB11_RX
+Added Pin To Net: NetName=PB12_NSS Pin=STM32F428Core-35
+Added Pin To Net: NetName=PB12_NSS Pin=TC&SPI-3
+Added Net: Name=PB12_NSS
+Added Pin To Net: NetName=PB13_SCK Pin=STM32F428Core-55
+Added Pin To Net: NetName=PB13_SCK Pin=TC&SPI-4
+Added Net: Name=PB13_SCK
+Added Pin To Net: NetName=PB14_MISO Pin=STM32F428Core-15
+Added Pin To Net: NetName=PB14_MISO Pin=TC&SPI-5
+Added Net: Name=PB14_MISO
+Added Pin To Net: NetName=PB15_MOSI Pin=STM32F428Core-43
+Added Pin To Net: NetName=PB15_MOSI Pin=TC&SPI-6
+Added Net: Name=PB15_MOSI
+Added Pin To Net: NetName=PC0 Pin=ADCX6-2
+Added Pin To Net: NetName=PC0 Pin=STM32F428Core-33
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC1 Pin=ADCX6-3
+Added Pin To Net: NetName=PC1 Pin=STM32F428Core-39
+Added Net: Name=PC1
+Added Pin To Net: NetName=PC2 Pin=ADCX6-4
+Added Pin To Net: NetName=PC2 Pin=STM32F428Core-36
+Added Net: Name=PC2
+Added Pin To Net: NetName=PC3 Pin=ADCX6-5
+Added Pin To Net: NetName=PC3 Pin=STM32F428Core-54
+Added Net: Name=PC3
+Added Pin To Net: NetName=PC4 Pin=ADCX6-6
+Added Pin To Net: NetName=PC4 Pin=STM32F428Core-9
+Added Net: Name=PC4
+Added Pin To Net: NetName=PC5 Pin=ADCX6-7
+Added Pin To Net: NetName=PC5 Pin=STM32F428Core-37
+Added Net: Name=PC5
+Added Pin To Net: NetName=PC6_TX Pin=BLE-1
+Added Pin To Net: NetName=PC6_TX Pin=STM32F428Core-8
+Added Net: Name=PC6_TX
+Added Pin To Net: NetName=PC7_RX Pin=BLE-2
+Added Pin To Net: NetName=PC7_RX Pin=STM32F428Core-72
+Added Net: Name=PC7_RX
+Added Pin To Net: NetName=PC8 Pin=R23-1
+Added Pin To Net: NetName=PC8 Pin=sdcard-7
+Added Pin To Net: NetName=PC8 Pin=STM32F428Core-84
+Added Net: Name=PC8
+Added Pin To Net: NetName=PC9 Pin=R22-1
+Added Pin To Net: NetName=PC9 Pin=sdcard-8
+Added Pin To Net: NetName=PC9 Pin=STM32F428Core-112
+Added Net: Name=PC9
+Added Pin To Net: NetName=PC10 Pin=R24-2
+Added Pin To Net: NetName=PC10 Pin=sdcard-1
+Added Pin To Net: NetName=PC10 Pin=STM32F428Core-82
+Added Net: Name=PC10
+Added Pin To Net: NetName=PC11 Pin=R25-2
+Added Pin To Net: NetName=PC11 Pin=sdcard-2
+Added Pin To Net: NetName=PC11 Pin=STM32F428Core-110
+Added Net: Name=PC11
+Added Pin To Net: NetName=PC12 Pin=sdcard-5
+Added Pin To Net: NetName=PC12 Pin=STM32F428Core-111
+Added Net: Name=PC12
+Added Pin To Net: NetName=PD2 Pin=R26-2
+Added Pin To Net: NetName=PD2 Pin=sdcard-3
+Added Pin To Net: NetName=PD2 Pin=STM32F428Core-83
+Added Net: Name=PD2
+Added Pin To Net: NetName=PD4_D0 Pin=OLED-3
+Added Pin To Net: NetName=PD4_D0 Pin=STM32F428Core-65
+Added Net: Name=PD4_D0
+Added Pin To Net: NetName=PD5_TX Pin=STM32F428Core-34
+Added Pin To Net: NetName=PD5_TX Pin=UART2-3
+Added Net: Name=PD5_TX
+Added Pin To Net: NetName=PD6_RX Pin=STM32F428Core-70
+Added Pin To Net: NetName=PD6_RX Pin=UART2-4
+Added Net: Name=PD6_RX
+Added Pin To Net: NetName=PD7_D1 Pin=OLED-4
+Added Pin To Net: NetName=PD7_D1 Pin=STM32F428Core-93
+Added Net: Name=PD7_D1
+Added Pin To Net: NetName=PD11 Pin=RBEEP-1
+Added Pin To Net: NetName=PD11 Pin=STM32F428Core-6
+Added Net: Name=PD11
+Added Pin To Net: NetName=PD13_RES Pin=OLED-5
+Added Pin To Net: NetName=PD13_RES Pin=STM32F428Core-92
+Added Net: Name=PD13_RES
+Added Pin To Net: NetName=PE2_INT Pin=MPU6050-1-5
+Added Pin To Net: NetName=PE2_INT Pin=STM32F428Core-52
+Added Net: Name=PE2_INT
+Added Pin To Net: NetName=PE3_INT Pin=MPU6050-2-5
+Added Pin To Net: NetName=PE3_INT Pin=STM32F428Core-24
+Added Net: Name=PE3_INT
+Added Pin To Net: NetName=PE5 Pin=MotorB-5
+Added Pin To Net: NetName=PE5 Pin=STM32F428Core-75
+Added Net: Name=PE5
+Added Pin To Net: NetName=PE6 Pin=MotorB-6
+Added Pin To Net: NetName=PE6 Pin=STM32F428Core-103
+Added Net: Name=PE6
+Added Pin To Net: NetName=PF10_DC Pin=OLED-6
+Added Pin To Net: NetName=PF10_DC Pin=STM32F428Core-94
+Added Net: Name=PF10_DC
+Added Pin To Net: NetName=PG2_IRQ Pin=NRF-8
+Added Pin To Net: NetName=PG2_IRQ Pin=STM32F428Core-21
+Added Net: Name=PG2_IRQ
+Added Pin To Net: NetName=PG3_CS Pin=NRF-4
+Added Pin To Net: NetName=PG3_CS Pin=STM32F428Core-22
+Added Net: Name=PG3_CS
+Added Pin To Net: NetName=PG9_CE Pin=NRF-3
+Added Pin To Net: NetName=PG9_CE Pin=STM32F428Core-27
+Added Net: Name=PG9_CE
+Added Pin To Net: NetName=PH2_SCL Pin=MPU6050-2-3
+Added Pin To Net: NetName=PH2_SCL Pin=STM32F428Core-79
+Added Net: Name=PH2_SCL
+Added Pin To Net: NetName=PH3_SDA Pin=IIC-1-4
+Added Pin To Net: NetName=PH3_SDA Pin=STM32F428Core-107
+Added Net: Name=PH3_SDA
+Added Pin To Net: NetName=PH4_SCL Pin=MPU6050-1-3
+Added Pin To Net: NetName=PH4_SCL Pin=STM32F428Core-91
+Added Net: Name=PH4_SCL
+Added Pin To Net: NetName=PH5_SDA Pin=MPU6050-1-4
+Added Pin To Net: NetName=PH5_SDA Pin=STM32F428Core-63
+Added Net: Name=PH5_SDA
+Added Pin To Net: NetName=PH8_SDA Pin=MPU6050-2-4
+Added Pin To Net: NetName=PH8_SDA Pin=STM32F428Core-78
+Added Net: Name=PH8_SDA
+Added Pin To Net: NetName=PH9 Pin=R1-1
+Added Pin To Net: NetName=PH9 Pin=S1-2
+Added Pin To Net: NetName=PH9 Pin=STM32F428Core-23
+Added Net: Name=PH9
+Added Pin To Net: NetName=PH10 Pin=R2-1
+Added Pin To Net: NetName=PH10 Pin=S2-2
+Added Pin To Net: NetName=PH10 Pin=STM32F428Core-51
+Added Net: Name=PH10
+Added Pin To Net: NetName=PH11 Pin=R3-1
+Added Pin To Net: NetName=PH11 Pin=S3-2
+Added Pin To Net: NetName=PH11 Pin=STM32F428Core-50
+Added Net: Name=PH11
+Added Pin To Net: NetName=PH12 Pin=R4-1
+Added Pin To Net: NetName=PH12 Pin=S4-2
+Added Pin To Net: NetName=PH12 Pin=STM32F428Core-49
+Added Net: Name=PH12
+Added Pin To Net: NetName=PH13 Pin=R5-1
+Added Pin To Net: NetName=PH13 Pin=S5-2
+Added Pin To Net: NetName=PH13 Pin=STM32F428Core-74
+Added Net: Name=PH13
+Added Pin To Net: NetName=PH14 Pin=R6-1
+Added Pin To Net: NetName=PH14 Pin=S6-2
+Added Pin To Net: NetName=PH14 Pin=STM32F428Core-48
+Added Net: Name=PH14
+Added Pin To Net: NetName=PI0 Pin=R9-1
+Added Pin To Net: NetName=PI0 Pin=S9-5
+Added Pin To Net: NetName=PI0 Pin=STM32F428Core-101
+Added Net: Name=PI0
+Added Pin To Net: NetName=PI1 Pin=R10-1
+Added Pin To Net: NetName=PI1 Pin=S9-6
+Added Pin To Net: NetName=PI1 Pin=STM32F428Core-40
+Added Net: Name=PI1
+Added Pin To Net: NetName=PI2 Pin=R11-1
+Added Pin To Net: NetName=PI2 Pin=S9-7
+Added Pin To Net: NetName=PI2 Pin=STM32F428Core-100
+Added Net: Name=PI2
+Added Pin To Net: NetName=PI3 Pin=R12-1
+Added Pin To Net: NetName=PI3 Pin=S9-8
+Added Pin To Net: NetName=PI3 Pin=STM32F428Core-7
+Added Net: Name=PI3
+Added Pin To Net: NetName=PI4 Pin=D7-2
+Added Pin To Net: NetName=PI4 Pin=STM32F428Core-69
+Added Net: Name=PI4
+Added Pin To Net: NetName=PI5 Pin=D6-2
+Added Pin To Net: NetName=PI5 Pin=STM32F428Core-18
+Added Net: Name=PI5
+Added Pin To Net: NetName=PI6 Pin=D5-2
+Added Pin To Net: NetName=PI6 Pin=STM32F428Core-46
+Added Net: Name=PI6
+Added Pin To Net: NetName=PI7 Pin=D4-2
+Added Pin To Net: NetName=PI7 Pin=STM32F428Core-17
+Added Net: Name=PI7
+Added Pin To Net: NetName=PI8 Pin=D3-2
+Added Pin To Net: NetName=PI8 Pin=STM32F428Core-26
+Added Net: Name=PI8
+Added Pin To Net: NetName=PI9 Pin=D2-2
+Added Pin To Net: NetName=PI9 Pin=STM32F428Core-66
+Added Net: Name=PI9
+Added Pin To Net: NetName=PI10_SCL Pin=IIC-2-3
+Added Pin To Net: NetName=PI10_SCL Pin=STM32F428Core-95
+Added Net: Name=PI10_SCL
+Added Pin To Net: NetName=PI11_SDA Pin=IIC-2-4
+Added Pin To Net: NetName=PI11_SDA Pin=STM32F428Core-108
+Added Net: Name=PI11_SDA
+Added Pin To Net: NetName=VIN_RAW Pin=3V3-VIN+
+Added Pin To Net: NetName=VIN_RAW Pin=5V-VIN+
+Added Net: Name=VIN_RAW
+Added Class: Name=Flight_Controller
+Added Room: Name=Flight_Controller

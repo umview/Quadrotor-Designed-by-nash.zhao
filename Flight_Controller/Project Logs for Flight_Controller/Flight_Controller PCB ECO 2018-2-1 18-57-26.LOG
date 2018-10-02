@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=D0-2
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=3V3 Pin=R3V3-2
+Removed Pin From Net: NetName=5V Pin=R5V-2
+Removed Member From Class: ClassName=Flight_Controller Member=D0
+Removed Member From Class: ClassName=Flight_Controller Member=D1
+Removed Member From Class: ClassName=Flight_Controller Member=R3V3
+Removed Member From Class: ClassName=Flight_Controller Member=R5V
+Change Component Designator: OldDesignator=STM32F429Core NewDesignator=STM32F428Core
+Added Component: Designator=3V3(AMS1117-3.3-Board)
+Added Component: Designator=5V(AMS1117-5-Board - duplicate)
+Added Pin To Net: NetName=GND Pin=3V3-GND
+Added Pin To Net: NetName=GND Pin=3V3-GND
+Added Pin To Net: NetName=VIN_RAW Pin=3V3-VIN+
+Added Pin To Net: NetName=3V3 Pin=3V3-VOUT+
+Added Pin To Net: NetName=GND Pin=5V-GND
+Added Pin To Net: NetName=GND Pin=5V-GND
+Added Pin To Net: NetName=VIN_RAW Pin=5V-VIN+
+Added Pin To Net: NetName=5V Pin=5V-VOUT+
+Added Member To Class: ClassName=Flight_Controller Member=Component 3V3 AMS1117-3.3-Board
+Added Member To Class: ClassName=Flight_Controller Member=Component 5V AMS1117-5
