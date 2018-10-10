@@ -14,14 +14,10 @@ void QuadrotorInit(){
 	TeleControlInit();
 	digitalToggle(GPIOD,GPIO_Pin_12);
 	uart_init(115200);//初始化串口波特率为115200
-	TIM9_OC1_PWM_Init(5000-1,90-1);
-	TIM9_OC2_PWM_Init(5000-1,90-1);
-	TIM2_OC3_PWM_Init(2500-1,90-1);
-	TIM2_OC4_PWM_Init(2500-1,90-1);
   /*初始化SDRAM模块*/
   SDRAM_Init();
 	delay_ms(2000);
-//	MPU6050_Initialize();    
+	MPU6050_Initialize();    
 	getOffset();
 	/*MotorInit*/
 	TIM9_OC1_PWM_Init(5000-1,90-1);

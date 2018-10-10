@@ -207,8 +207,9 @@ void USART6_IRQHandler(){
 	if(USART_GetITStatus(USART6, USART_IT_RXNE) != RESET)
 	{ 	
 			Par.uartbuff[6] = (uint16_t)(USART6->DR & (uint16_t)0x01FF);
-			Par.uartbuff[3]= Par.uartbuff[6];
-			Decoder();
+			BlueToothCtrl();
+			//Par.uartbuff[3]= Par.uartbuff[6];
+			//Decoder();
 	} 
 }
 void USART2_IRQHandler(){
