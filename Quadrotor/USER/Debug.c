@@ -10,6 +10,7 @@ void LOOP(void){
 			Flag.FlagSendData=0;
 		}
 		BlueToothCtrl();
+		Decoder();
 		ShowMenu();
 		DebugKey();
 }
@@ -222,7 +223,7 @@ void USART3_IRQHandler(){
 	if(USART_GetITStatus(USART3, USART_IT_RXNE) != RESET)
 	{ 	
 			Par.uartbuff[3] = (uint16_t)(USART3->DR & (uint16_t)0x01FF);
-			Decoder();
+		//	Decoder();
 	} 
 }
 void EXTI0_IRQHandler(void)
